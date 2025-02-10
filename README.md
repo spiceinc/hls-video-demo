@@ -1,6 +1,6 @@
 # HLS動画デモ (hls-video-demo)
 
-https://spiceinc.github.io/hls-video-demo/
+https://spiceinc.github.io/hls-video-demo/index.html
 
 このリポジトリは、HLS (HTTP Live Streaming) 形式の動画をブラウザ上で再生するサンプルデモです。  
 SafariなどネイティブにHLSをサポートするブラウザだけでなく、hls.jsを利用してChromeなど他のブラウザでも再生確認が可能です。
