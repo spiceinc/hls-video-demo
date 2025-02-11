@@ -9,7 +9,6 @@ https://spiceinc.github.io/hls-video-demo/index.html
 
 - **HTML5 + HLS.js** を使って、ローカルまたはWebサーバ上でHLS形式の動画が再生できるかを確認
 - PC、スマートフォン、タブレットなど、主要なブラウザでの挙動をテスト可能
-- 開発環境下での動作検証や学習目的にも使用
 
 ## ディレクトリ構成
 
